@@ -82,6 +82,10 @@ body {
 }
 
 @media only screen and (max-width: 500px) {
+    .display {
+        width: 80%;
+    }
+
     .display input {
         width: 54%;
     }
